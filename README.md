@@ -36,7 +36,7 @@ Upgrades the ram on your purchased servers whenever you can afford to
 
 ## pwn.js
 
-Preps a target for batch hacks, then executes HWGW (Hack Weaken Grow Weaken) hack batches in quick succesion.
+Preps a target for batch hacks, then executes HWGW (Hack Weaken Grow Weaken) hack batches in quick succession.
 
 Takes one argument:
 
